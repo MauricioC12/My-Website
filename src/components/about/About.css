@@ -20,6 +20,14 @@
   font-size: 28px;
 }
 
+.about-desc > h4 {
+  margin-top: 18px;
+}
+
+.about-desc--p {
+  margin-top: 10px;
+}
+
 .about-desc > p {
   line-height: 1.5;
 }
